@@ -26,4 +26,5 @@
     cat id_rsa.pub
     ```
 - Step 4: Save the key to the following location of Your github account.
-  ```Go to Settings -> SSH and GPG Keys -> New SSH Key(click)
+  
+  ```Go to Settings -> SSH and GPG Keys -> New SSH Key(click)```
